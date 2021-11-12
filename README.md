@@ -35,4 +35,4 @@ TODO: Facing an issue with the interpter.So i was unable to complete the last 2 
 TODO: Facing an issue with the interpter.So i was unable to complete the last 2 steps(6,7).
 
 ## Summary
-TODO: Working with AWS Sagemakers was itself a new experience.It was very handy to perform the most complex task in a simplfied manner.I learned new tools such as AutoML,Xgboost,AutoGluon.
+TODO: Working with AWS Sagemakers was itself a new experience.It was very handy to perform the most complex task in a simplfied manner.I learned new tools such as AutoML,Xgboost,AutoGluon.Data cleaning,EDA are the important stages in ML Life cycle.
