@@ -1,5 +1,4 @@
-# Report_Project-1
-# Report: Predict Bike Sharing Demand with AutoGluon Solution 
+Predict Bike Sharing Demand with AutoGluon 
 #### Sreeya Ch
 
 ## Initial Training
